@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> this fork is archived because it's no longer needed (i never got it working anyway). the pyright pycharm plugin now fully works with basedpyright. [see here for installation instructions](https://docs.basedpyright.com/latest/installation/ides/#pycharm)
+
 # Pyright for PyCharm
 
 [![Build](https://github.com/InSyncWithFoo/pyright-for-pycharm/actions/workflows/build.yaml/badge.svg)][4]
